@@ -1,2 +1,2 @@
 # chatbot
-chatbot program based on Tensorflow sequence-to-sequence model
+Chatbot programs based on Tensorflow sequence-to-sequence model
